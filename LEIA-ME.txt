@@ -1,0 +1,3 @@
+Site da Piocar, versao de 14/10/2026.
+Suba o conteudo desta pasta na raiz do repositorio (index.html na raiz).
+Quando o dominio piocar.com.br existir, crie um arquivo CNAME na raiz com uma linha: piocar.com.br
